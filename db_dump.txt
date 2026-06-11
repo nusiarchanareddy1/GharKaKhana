@@ -1,0 +1,55 @@
+Total dishes: 12
+
+Dish 1: Hyderabadi Chicken Dum Biryani
+Cook Name: Rajeswari Garu
+City in DB: "Hyderabad"
+
+Dish 2: Gongura Mutton
+Cook Name: Srinivasa Rao
+City in DB: "Guntur"
+
+Dish 3: Ragi Sangati with Natu Kodi Pulusu
+Cook Name: Venkatesh
+City in DB: "Visakhapatnam"
+
+Dish 4: Gutti Vankaya Curry
+Cook Name: Lakshmi Amma
+City in DB: "Vijayawada"
+
+Dish 5: Chepala Pulusu (Nellore Fish Curry)
+Cook Name: Venkatesh
+City in DB: "Visakhapatnam"
+
+Dish 6: punugulu
+Cook Name: Lakshmi Amma
+City in DB: "Vijayawada"
+
+Dish 7: Mirchi Bajji
+Cook Name: Srinivasa Rao
+City in DB: "Guntur"
+
+Dish 8: Pootharekulu
+Cook Name: Lakshmi Amma
+City in DB: "Vijayawada"
+
+Dish 9: Avakaya Pachadi (Mango Pickle)
+Cook Name: Srinivasa Rao
+City in DB: "Guntur"
+
+Dish 10: Gongura Pachadi
+Cook Name: Lakshmi Amma
+City in DB: "Vijayawada"
+
+Dish 11: Homemade Sitaphal Ice Cream
+Cook Name: Rajeswari Garu
+City in DB: "Hyderabad"
+
+Dish 12: Kulfi Falooda
+Cook Name: Rajeswari Garu
+City in DB: "Hyderabad"
+
+All Cooks in DB: 4
+- Lakshmi Amma: "Vijayawada" (lakshmi@example.com)
+- Rajeswari Garu: "Hyderabad" (rajeswari@example.com)
+- Srinivasa Rao: "Guntur" (srinu@example.com)
+- Venkatesh: "Visakhapatnam" (venky@example.com)
